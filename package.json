@@ -1,0 +1,16 @@
+{
+  "name": "lab3_cloud",
+  "version": "1.0.0",
+  "description": "Laboration 3",
+  "main": "client.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Jussi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3"
+  }
+}
