@@ -5,7 +5,7 @@ const data = {
   //data: 'Malmö wicked man go prosper ye o dog' // response = 1 2 2 0 1 1 1 0 0 0
 };
 
-axios.post('https://ancient-thicket-00051.herokuapp.com/getWordLengthFrequency', data)
+axios.post('https://gentle-reaches-48154.herokuapp.com/', data)
   .then((res) => {
     console.log(data);
     console.log();
